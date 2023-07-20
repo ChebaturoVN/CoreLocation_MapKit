@@ -1,2 +1,2 @@
-# example-fo-Combine
+# example-for-Combine
 example Combine with SwiftUI
