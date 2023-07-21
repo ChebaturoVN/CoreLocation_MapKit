@@ -3,4 +3,372 @@
    uuid = "700C1C13-11EE-4D35-BD02-E79DB09E9E44"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DEDF638-2322-44A8-BDB6-369861807E35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "setupPlacemark(adressPlace:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DEDF638-2322-44A8-BDB6-369861807E35 - b8aaefc7b2641ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+               <Location
+                  uuid = "9DEDF638-2322-44A8-BDB6-369861807E35 - b8aaefc7b2641cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "421A74AD-FE75-43F8-AD0B-77C800333F07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "setupPlacemark(adressPlace:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "421A74AD-FE75-43F8-AD0B-77C800333F07 - b8aaefc7b264111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "421A74AD-FE75-43F8-AD0B-77C800333F07 - b8aaefc7b2640f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D830065-3DB4-43E5-9468-BAC54AF2594A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "setupPlacemark(adressPlace:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D830065-3DB4-43E5-9468-BAC54AF2594A - b8aaefc7b264248"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+               <Location
+                  uuid = "3D830065-3DB4-43E5-9468-BAC54AF2594A - b8aaefc7b264248"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+               <Location
+                  uuid = "3D830065-3DB4-43E5-9468-BAC54AF2594A - b8aaefc7b264248"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56DEE6EC-02D2-4469-9A58-23FF29559A27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "setupPlacemark(adressPlace:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56DEE6EC-02D2-4469-9A58-23FF29559A27 - b8aaefc7b26428a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+               <Location
+                  uuid = "56DEE6EC-02D2-4469-9A58-23FF29559A27 - b8aaefc7b26428a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+               <Location
+                  uuid = "56DEE6EC-02D2-4469-9A58-23FF29559A27 - b8aaefc7b26428a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "1920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6FC05FC-8334-4A4A-89B8-A0C991B73A4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "setupPlacemark(adressPlace:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E6FC05FC-8334-4A4A-89B8-A0C991B73A4B - b8aaefc7b26420e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+               <Location
+                  uuid = "E6FC05FC-8334-4A4A-89B8-A0C991B73A4B - b8aaefc7b26420e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in example_Combine.MainViewController.setupPlacemark(adressPlace: Swift.String) -&gt; ()"
+                  moduleName = "example_Combine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vova/Documents/GitHub-project/Combine/example-fo-Combine/example_Combine/example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4B907A2-F00A-42C7-8172-1D6A84CA43E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/ViewModel/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B918642-4B0D-4B0F-864B-DC95236235DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/ViewModel/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C221784-042D-48D6-B8AB-A1B25EBEF53C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "mapView(_:rendererFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B364879-CF78-4F2F-9852-3447EE3DD9F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "mapView(_:rendererFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECC7C041-C024-4BAC-9BEB-A89CC344824B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "mapView(_:rendererFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60DF8A0D-D0FA-4861-B168-D21139851687"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "example_Combine/Modules/Screens/MainScreen/View/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "createDirectionRequest(startCoordinate:destinationCoordinate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
